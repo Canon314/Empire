@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b00a8d6733ef2c4ba277026dd999918
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonPrefab: {fileID: 5726807611043942888, guid: 4b82b98259f279b4ab16872e648257fd, type: 3}
+  - inputFieldPrefab: {fileID: 1147244839230162655, guid: b987085edb86f434e8afe9feaa86c6a5, type: 3}
+  - panel: {fileID: 4370621314664140389, guid: ba786add89a1e01439377d0a2e150e42, type: 3}
+  - armyText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
