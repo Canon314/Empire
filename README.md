@@ -9,6 +9,7 @@ Empire is a historical strategy game designed to encourage collaboration and bui
 * Army management with increase/decrease functions
 * Automatic attack mechanics to manage combat between regions
 * Open-ended design with no hard-set rules, allowing creative gameplay
+
 🛠️ Technical Details
 
 Built With:
